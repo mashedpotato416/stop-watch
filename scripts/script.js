@@ -59,9 +59,11 @@ function Timer(e) {
   }
 }
 
+// Initialize global var
 let currentCentiSeconds = 0
 let stopWatch
 
+// Set Eventlisteners
 const startButton = document.querySelector('#start')
 startButton.addEventListener('click', Timer)
 
