@@ -1,0 +1,12 @@
+html {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1 {
+  font-size: 5em;
+}
+
+p {
+  flex: 1;
+  font-size: 5em;
+}
